@@ -1,3 +1,28 @@
-body {
-    background: blue;
-  }
+html {
+  background: url(../peter_sciberras_website/Images/Fiji.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+#movember {
+  margin-left: 80px;
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  top: 140px;
+  left: 900px;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 5mm;
+  font-style: italic; 
+  
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 40mm;
+  font-weight: normal;
+  font-style: italic;
+}

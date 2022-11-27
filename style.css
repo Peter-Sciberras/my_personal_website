@@ -5,12 +5,11 @@ html {
 }
 
 #movember {
-  margin-left: 80px;
   width: 250px;
   height: 250px;
   position: absolute;
   top: 140px;
-  left: 900px;
+  left: 980px;
   
   
 }
@@ -34,7 +33,7 @@ h2 {
   font-style: italic;
   font-family: 'Times New Roman', Times, serif;
   position: absolute;
-  top: -10px;
+  top: -30px;
   left: 25px;
 }
 
@@ -48,3 +47,86 @@ p1 {
   left: 50px;
   max-width: 200px;
 }
+
+p2 {
+  color: #ffffff;
+  font-size: 4mm;
+  font-style: italic; 
+  font-weight: lighter;
+  position: absolute;
+  top: 410px;
+  left: 980px;
+  max-width: 200px;
+}
+
+p3 {
+  color: #ffffff;
+  font-size: 4mm;
+  font-style: italic; 
+  font-weight: lighter;
+  position: absolute;
+  top: 580px;
+  left: 50px;
+  max-width: 300px;
+}
+
+p4 {
+  color: #ffffff;
+  font-size: 4mm;
+  font-style: italic; 
+  font-weight: lighter;
+  position: absolute;
+  top: 800px;
+  left: 560px;
+}
+
+#fullname {
+  background-color: #ffffff;
+  color: white;
+  padding: 8px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  position: absolute;
+  top: 440px;
+  left: 980px;
+}
+#email {
+  background-color: #ffffff;
+  color: white;
+  padding: 8px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  position: absolute;
+  top: 475px;
+  left: 980px;
+}
+#phone {
+  background-color: #ffffff;
+  color: white;
+  padding: 8px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  position: absolute;
+  top: 510px;
+  left: 980px;
+}
+#message {
+  background-color: #ffffff;
+  color: white;
+  padding: 8px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  position: absolute;
+  top: 545px;
+  left: 980px;
+}
+#submit {
+  position: absolute;
+  top: 600px;
+  left: 980px;
+}
+
